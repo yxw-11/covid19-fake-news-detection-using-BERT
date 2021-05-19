@@ -1,4 +1,4 @@
-# covid19-fake-news-detection
+# covid19-fake-news-detection using BERT
 From the past year, the whole world has gone through
 the COVID-19 pandemic. Twitter, Facebook, Insta-
 gram and many other social platforms update news
