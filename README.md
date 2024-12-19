@@ -14,6 +14,7 @@ Project authors： Yuxiang Wang, Yongheng Zhang, Xinyao Yu, Xuebo Li
 Paper Link: https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=u04xXdoAAAAJ&citation_for_view=u04xXdoAAAAJ:u5HHmVD_uO8C
 
 Cite this paper:
+
 @misc{wang2021covid19fakenewsdetection,
       title={COVID-19 Fake News Detection Using Bidirectional Encoder Representations from Transformers Based Models}, 
       author={Yuxiang Wang and Yongheng Zhang and Xuebo Li and Xinyao Yu},
