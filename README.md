@@ -9,4 +9,5 @@ to train social media news posts, which are already
 known for truth or fake, for better recognizing those
 possible false news that may appear in the future.
 
-project authors： Yuxiang Wang, Yongheng Zhang, Xinyao Yu, Xuebo Li
+Project authors： Yuxiang Wang, Yongheng Zhang, Xinyao Yu, Xuebo Li
+Paper Link: https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=u04xXdoAAAAJ&citation_for_view=u04xXdoAAAAJ:u5HHmVD_uO8C
